@@ -1,0 +1,28 @@
+{
+  "symbol": "SHEL",
+  "address": "0x59a17c58daaee299b39a060b9de67bf7c829e4d3",
+  "overview":{
+        "en": "shelterDAO is a new way of decentralizing real estate and services where users can connect peer to peer and get paid in crypto.",
+        "zh": ""
+  },
+  "email": "shelterDAO@gmail.com",
+  "website": "https://shels.io/",
+  "whitepaper": "https://shels.io/wp-content/uploads/2018/09/shelterDAO-Whitepaper-v2.pdf",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2018-01-06",
+  "initial_price":{
+        "ETH":"0.000050 ETH",
+        "USD":"0.01 USD",
+        "BTC":"0.0000016 BTC"
+  },
+  "links": {
+    "blog": "https://shels.io/shelterdao/",
+    "twitter": "https://twitter.com/shelterdao",
+    "telegram": "https://t.me/shelterDAOcommunity",
+    "github": "https://github.com/SHELTERDAO",
+    "facebook": "https://www.facebook.com/shelterDAO/",
+    "reddit": "https://www.reddit.com/r/shelterDAO",
+    "slack": "",
+    "medium": ""
+  }
+}
